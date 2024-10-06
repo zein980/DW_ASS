@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Q3", "Q3\Q3.dtproj", "{C94A4670-E6FD-4555-9A17-B37C4D3B76BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C94A4670-E6FD-4555-9A17-B37C4D3B76BF}.Development|Default.ActiveCfg = Development
+		{C94A4670-E6FD-4555-9A17-B37C4D3B76BF}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF8E3BA2-D2BE-413B-B3DF-578900A5028E}
+	EndGlobalSection
+EndGlobal
